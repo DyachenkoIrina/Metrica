@@ -180,7 +180,7 @@ body {
         height: 1844px;
     }
     .services {
-        width: 1400px;
+        width: 100%;
         margin: 0 auto;
         padding: 150px 125px 150px 125px;
         box-sizing: border-box;
