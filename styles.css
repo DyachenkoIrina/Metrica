@@ -506,7 +506,7 @@ footer {
     line-height: 22px;
   }
   .project_btn {
-    width: 100%;
+    max-width: 365px;
     font-size: 22px;
     line-height: 30px;
     border-radius: 4px;
